@@ -1,0 +1,7 @@
+<Definitions xmlns:meta="Editor">
+	<Definition Name="Struct" meta:RefKey="Struct">
+		<Data Name="Boolean" meta:RefKey="Boolean" />
+		<Data Name="Boolean" meta:RefKey="Boolean" />
+	</Definition>
+	<Definition Name="Stats" meta:RefKey="Struct" />
+</Definitions>
