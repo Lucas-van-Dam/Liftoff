@@ -1,0 +1,6 @@
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\bin\Release\GXPEngine.exe.config
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\bin\Release\GXPEngine.exe
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\obj\x86\Release\GXPEngine.csproj.AssemblyReference.cache
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\obj\x86\Release\GXPEngine.csproj.SuggestedBindingRedirects.cache
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\obj\x86\Release\GXPEngine.csproj.CoreCompileInputs.cache
+C:\saxion_cmgt\Projects\Liftoff\GXPEngine2023\GXPEngine\obj\x86\Release\GXPEngine.exe

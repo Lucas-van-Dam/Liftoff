@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <characterstats gravity="2" jumpgravitymulti="0.5" jumpforce="40" punchdamage="10"
+                  kickdamage="10" hitknockback="5" blockdamagereduction="0.3"
+                  speed="3" ultchargekick="10" ultchargepunch="10"/>
+  <character>
+    <fatstats damageresistance="0.3" flatdamage="10"/>
+    <firestats laserdamagepertick="5" laserticks="10"/>
+    <rootsstats ultdamage="50" ultspeed="4"/>
+  </character>
+</config>
