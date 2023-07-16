@@ -5,6 +5,8 @@ Year 1 Term 3 Project Made on top of the GXP Engine
 
 This is the result of my team during the third project of the first year, we had to make a game that functioned with our own self made controller, and after some thinking we decided to make a fighting game, i think that in the end it worked out pretty well, and i am proud of what we have made. the project also works without a controller, since it is fully controllable by keyboard.
 
+the engine itself has had almost no modifications, and my code on top of it is all in the folder GXPEngine2023/GXPEngine/Liftoff
+
 ## Goal
 
 Our goal was to make a game that works with our self made controller, using the GXP engine
